@@ -31,5 +31,5 @@ var theFunk = funkyFunction()
 
 function()
 
-theFunk()
+theFunk
 
